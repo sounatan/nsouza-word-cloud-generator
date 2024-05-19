@@ -1,8 +1,9 @@
 [![Go Test](https://github.com/wickett/word-cloud-generator/actions/workflows/go.yml/badge.svg)](https://github.com/wickett/word-cloud-generator/actions/workflows/go.yml) [![CircleCI](https://circleci.com/gh/wickett/word-cloud-generator/tree/master.svg?style=svg)](https://circleci.com/gh/wickett/word-cloud-generator/tree/master)
 
-# word-cloud-generator
+# nsouza-word-cloud-generator
 It's a golang web app that takes a block of text and turns it into a word cloud. 
 Star this repo if you like the class!
+Edited via GitHub Browser
 
 ## Notice
 This project is a a sample app for a class on Continuous Delivery at LinkedIn Learning. You can see the class as well as other classes I have available at https://www.linkedin.com/learning/instructors/james-wickett. Thanks!
